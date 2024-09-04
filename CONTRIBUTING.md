@@ -7,11 +7,11 @@ While the Integrative Historical Prediction (IHP) Framework exists only in the r
 ## Expand Your Mind
 
 1. **Immerse yourself in "War and Peace" by Leo Tolstoy**
-   Experience Tolstoy's masterful weaving of individual stories with the grand tapestry of history. Reflect on his philosophy of historical forces and the role of free will in shaping events.
+   Experience Tolstoy's masterful weaving of individual stories with the grand tapestry of history. Reflect on his philosophy of historical forces and the role of free will in shaping events. Especially [Book 11, Chapter 1](https://www.gutenberg.org/files/2600/2600-h/2600-h.htm#link2H_4_0240) was the seed that sprouted into this exercise.
 
 2. **Explore Isaac Asimov's Foundation series**
    - Option A: Dive into Asimov's original novels.
-   - Option B: Watch the Foundation TV series on Apple TV+ (https://tv.apple.com/us/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3).
+   - Option B: Watch the [Foundation TV series on Apple TV+](https://tv.apple.com/us/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3).
    
    Let the concept of psychohistory spark your imagination about the potential for long-term societal prediction.
 
