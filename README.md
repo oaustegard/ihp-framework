@@ -17,6 +17,8 @@ The framework is demonstrated through three case studies:
 2. Near-future predictions of global cryptocurrency adoption
 3. Long-term forecasting of climate-induced migration patterns
 
+For a graphical overview, see https://excalidraw.com/#json=Z-np5KMmzWodTlvTX85fK,VVWcrW3OMmhvxoHYrGKG2Q
+
 ## Installation
 
 To install the IHP framework and its dependencies, follow these steps:
