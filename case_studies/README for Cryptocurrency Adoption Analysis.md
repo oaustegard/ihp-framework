@@ -94,11 +94,3 @@ If you use this implementation in your research, please cite the original paper:
 ```
 Austegard, O., & Sonnett, C. (2024). Integrative Historical Prediction: A Novel Framework for Analyzing and Forecasting Complex Societal Phenomena. Journal of Complex Systems Analysis, 15(2), 123-456.
 ```
-
-## Contact
-
-For questions or feedback, please contact:
-
-Your Name - your.email@example.com
-
-Project Link: https://github.com/yourusername/crypto-adoption-analysis
