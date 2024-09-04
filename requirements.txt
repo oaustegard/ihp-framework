@@ -1,5 +1,5 @@
 numpy==1.21.0
-tensorflow==2.6.0
+tensorflow==2.12.1
 geomstats==2.5.1
 gudhi==3.4.1
 pygsp==0.5.1
