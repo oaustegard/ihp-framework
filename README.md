@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Integrative Historical Prediction (IHP) framework is a novel approach to analyzing and forecasting complex societal phenomena. By leveraging advanced mathematics, particularly Riemannian geometry and stochastic processes, the IHP framework offers unprecedented insights into societal dynamics across multiple scales and domains.
+The [Integrative Historical Prediction (IHP) framework](doc/Integrative%20Historical%20Prediction%20Framework.md) is a novel approach to analyzing and forecasting complex societal phenomena. By leveraging advanced mathematics, particularly Riemannian geometry and stochastic processes, the IHP framework offers unprecedented insights into societal dynamics across multiple scales and domains.
 
 This repository contains the Python implementation of the IHP framework, including the following core components:
 
@@ -110,4 +110,4 @@ For questions or feedback, please contact:
 - Dr. O. Austegard - o.austegard@northaven.edu
 - Dr. C. Sonnett - c.sonnett@northaven.edu
 
-Project Link: https://github.com/your-username/ihp-framework
+Project Link: https://github.com/oaustegard/ihp-framework
