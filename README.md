@@ -44,7 +44,7 @@ To install the IHP framework and its dependencies, follow these steps:
 
 ## Usage
 
-Do **not** use the IHP framework for analysis or prediction: **it is a work of fiction** -- see [WHAT⁉️.md].  But for the continued fictional notion that this was a real project here are the fictional usage steps:
+Do **not** use the IHP framework for analysis or prediction: **it is a work of fiction** -- see [WHAT⁉️.md](WHAT⁉️.md).  But for the continued fictional notion that this was a real project here are the fictional usage steps:
 
 1. Import the necessary modules:
    ```python
