@@ -1,5 +1,5 @@
 # WHAT⁉️
-_What is this?_  Reasonable question: it is [another exercise](https://austegard.com/AI-in-SDLC/) in cohesive, long-form AI-generation. **It is entirely fictional science** born from a simple thought and subsequent request to [Claude.ai](https://claude.ai):
+_What is [this](https://github.com/oaustegard/ihp-framework/blob/main/doc/Integrative%20Historical%20Prediction%20Framework.md)?_  Reasonable question: it is [another exercise](https://austegard.com/AI-in-SDLC/) in cohesive, long-form AI-generation. **It is entirely fictional science** born from a simple thought and subsequent request to [Claude.ai](https://claude.ai):
 
 > Consider Tolstoy’s argument that history is but the integral of infinitesimally small individual events, all of which are part of their own continuum of events, as well as Asimov’s notion of Psychohistory.
 >
