@@ -377,8 +377,6 @@ The true test of any theoretical framework lies in its practical application. In
 
 ## 5.1 Retrospective Analysis: The Arab Spring
 
-[Replace the existing content with the following]
-
 Our first case study applies the IHP framework to the complex series of pro-democracy uprisings known as the Arab Spring, which swept through several Middle Eastern and North African countries beginning in 2010. This retrospective analysis demonstrates the framework's ability to integrate diverse data sources, detect emergent phenomena, and reveal complex causal chains in historical events.
 
 ### 5.1.1 Data Integration and Modeling
