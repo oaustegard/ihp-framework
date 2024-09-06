@@ -44,7 +44,7 @@ To install the IHP framework and its dependencies, follow these steps:
 
 ## Usage
 
-To use the IHP framework for analysis and prediction, you can follow these general steps:
+Do **not** use the IHP framework for analysis or prediction: **it is a work of fiction** -- see [WHAT⁉️.md].  But for the continued fictional notion that this was a real project here are the fictional usage steps:
 
 1. Import the necessary modules:
    ```python
@@ -95,11 +95,11 @@ Contributions to the IHP framework are welcome! Please read our [CONTRIBUTING.md
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This fictional project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Citation
 
-If you use the IHP framework in your research, please cite the original paper:
+If you use the IHP framework in your research, please reconsider. It is a work of fiction.  But for completion of the fiction, cite the original paper:
 
 ```
 Austegard, O., & Sonnett, C. (2024). Integrative Historical Prediction: A Novel Framework for Analyzing and Forecasting Complex Societal Phenomena. Journal of Complex Systems Analysis, 15(2), 123-456.
@@ -107,7 +107,7 @@ Austegard, O., & Sonnett, C. (2024). Integrative Historical Prediction: A Novel 
 
 ## Contact
 
-For questions or feedback, please contact:
+For questions or feedback, you can attempt (and fail to) contact:
 
 - Dr. O. Austegard - o.austegard@northaven.edu
 - Dr. C. Sonnett - c.sonnett@northaven.edu
